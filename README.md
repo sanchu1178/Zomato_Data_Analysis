@@ -4,6 +4,7 @@
 This project analyzes Zomato's restaurant data to uncover key insights about restaurant ratings, customer preferences, cuisine trends, and pricing strategies. Using **Python**, we perform **data cleaning, exploratory data analysis (EDA), and visualization** to extract meaningful patterns from the dataset.  
 
 ## 💁️ Dataset  
+- <a href= "https://drive.google.com/file/d/1wB23ywCecCk_CAOxktdaLe6eZlWK1ovc/view?usp=sharing"> Dataset</a>
 - The dataset contains restaurant details such as name, location, ratings, price range, cuisine types, and more.  
 - Pre-processing includes handling missing values, cleaning ratings, and removing irrelevant or duplicate data.  
 
